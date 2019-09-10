@@ -36,4 +36,8 @@ Se diseña el método principal en una nueva clase llamada -coperacha- e instanc
 
 # 4_1_Ejercicio_3
 
-En este ejercicio se pide agregar un nombre 
+En este ejercicio se pide agregar un nombre y el aporte individual con impuestos y propina. Se diseña la clase -vaquita- que sirve como método de operación y la clase -coperacha- que se rediseño para obtener el resultado esperado.
+
+
+
+# 4_1_Ejercicio_4

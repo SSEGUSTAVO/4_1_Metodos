@@ -35,3 +35,5 @@ Se diseña el método principal en una nueva clase llamada -coperacha- e instanc
 ![Leccion 4_1_2_2](https://user-images.githubusercontent.com/54320247/64642165-54749f00-d3d3-11e9-914d-3fcc0b5c8041.jpg)
 
 # 4_1_Ejercicio_3
+
+En este ejercicio se pide agregar un nombre 

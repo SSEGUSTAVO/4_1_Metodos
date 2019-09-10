@@ -38,6 +38,18 @@ Se diseña el método principal en una nueva clase llamada -coperacha- e instanc
 
 En este ejercicio se pide agregar un nombre y el aporte individual con impuestos y propina. Se diseña la clase -vaquita- que sirve como método de operación y la clase -coperacha- que se rediseño para obtener el resultado esperado.
 
-
+![Leccion 4_1_3](https://user-images.githubusercontent.com/54320247/64642622-660a7680-d3d4-11e9-9d0f-d6b87aeecec4.jpg)
 
 # 4_1_Ejercicio_4
+
+En este ejercicio se pide realizar todos los pasos anteriores, esto es, agregar un nombre a cada persona, obtener el aporte individual de cada persona con impuestos y propina y obtener un total de todo lo obtenido sin impuestos y propina.
+Se rediseñan las clases -coperacha- y -vaquita- y además se diseña la clase -sumame- que ocupa un método de retorno para poder utilizar el valor obtenido en otra clase. Al correr el programa se observa que no se imprime el costo total, ya que en la clase principal -coperacha- no se agregó una sentencia de impresión.
+
+
+
+Se agregó la sentencia de impresión pero al correr el programa se observa un error en el resultado.
+
+
+
+Después de analizarlo detenidamente, se determina que en la clase -sumame- no se asignó una variable que contenga el valor, por lo que se corrige agregando la variable e instanciandolo en la clase principal.
+

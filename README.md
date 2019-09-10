@@ -22,3 +22,16 @@ Se corrigió al colocar el paréntesis en donde lo indica el error. Sin embargo 
 Esto se corrigió al agregar en la suma el valor inicial para cada persona.
 
 ![Leccion 4_1_1_3](https://user-images.githubusercontent.com/54320247/64641004-dca57500-d3d0-11e9-9614-1106ca5b74b8.jpg)
+
+# 4_1_Ejercicio_2
+
+En este segundo ejercicio se pide realizar lo mismo del ejercicio 1 pero esta vez instanciando un método para facilitar el código.
+Se diseña el método -vaquita- en la clase -trucha-, sin embargo cuando se intenta correr el programa aparece un error que indica que no se ha encontrado el método principal. Esto es ya que no se ha agregado el método principal main.
+
+
+
+Se diseña el método principal en una nueva clase llamada -coperacha- e instanciando el método anterior, dando como resultado el mismo que en el ejercicio anterior.
+
+
+
+# 4_1_Ejercicio_3

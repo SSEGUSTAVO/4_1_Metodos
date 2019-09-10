@@ -45,11 +45,12 @@ En este ejercicio se pide agregar un nombre y el aporte individual con impuestos
 En este ejercicio se pide realizar todos los pasos anteriores, esto es, agregar un nombre a cada persona, obtener el aporte individual de cada persona con impuestos y propina y obtener un total de todo lo obtenido sin impuestos y propina.
 Se rediseñan las clases -coperacha- y -vaquita- y además se diseña la clase -sumame- que ocupa un método de retorno para poder utilizar el valor obtenido en otra clase. Al correr el programa se observa que no se imprime el costo total, ya que en la clase principal -coperacha- no se agregó una sentencia de impresión.
 
-
+![Leccion 4_1_5_1](https://user-images.githubusercontent.com/54320247/64642172-56d6f900-d3d3-11e9-8071-cb483ff1a616.jpg)
 
 Se agregó la sentencia de impresión pero al correr el programa se observa un error en el resultado.
 
-
+![Leccion 4_1_5_2](https://user-images.githubusercontent.com/54320247/64642174-58082600-d3d3-11e9-8406-d934ca44562b.jpg)
 
 Después de analizarlo detenidamente, se determina que en la clase -sumame- no se asignó una variable que contenga el valor, por lo que se corrige agregando la variable e instanciandolo en la clase principal.
 
+![Leccion 4_1_5_3](https://user-images.githubusercontent.com/54320247/64642176-59d1e980-d3d3-11e9-9bea-4a029452a495.jpg)

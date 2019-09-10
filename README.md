@@ -28,10 +28,10 @@ Esto se corrigió al agregar en la suma el valor inicial para cada persona.
 En este segundo ejercicio se pide realizar lo mismo del ejercicio 1 pero esta vez instanciando un método para facilitar el código.
 Se diseña el método -vaquita- en la clase -trucha-, sin embargo cuando se intenta correr el programa aparece un error que indica que no se ha encontrado el método principal. Esto es ya que no se ha agregado el método principal main.
 
-
+![Leccion 4_1_2_1](https://user-images.githubusercontent.com/54320247/64642158-52124500-d3d3-11e9-9160-c96861c21e61.jpg)
 
 Se diseña el método principal en una nueva clase llamada -coperacha- e instanciando el método anterior, dando como resultado el mismo que en el ejercicio anterior.
 
-
+![Leccion 4_1_2_2](https://user-images.githubusercontent.com/54320247/64642165-54749f00-d3d3-11e9-914d-3fcc0b5c8041.jpg)
 
 # 4_1_Ejercicio_3
